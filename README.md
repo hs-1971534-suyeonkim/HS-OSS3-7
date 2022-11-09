@@ -24,6 +24,7 @@
     * repository 만들고 collaborator 초대, approve 권한 주기
     * user마다 branch 만들고 폴더 구조 만들어놓기
     <br>
+    
     * 각자 해야할 것
         * 각자의 파일에 '좌석 예약'과 '음성 인식'에 관련된 오픈소스 및 자료 찾기
         * 자료 정리한 것 md 파일로 만들기
