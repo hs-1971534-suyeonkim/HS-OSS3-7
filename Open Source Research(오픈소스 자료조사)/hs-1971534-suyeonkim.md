@@ -6,7 +6,8 @@
 <hr>
 
 ## 서비스 구상도 
-![serviceimg](../스크린샷 2022-11-14 오전 11.05.24.png)
+
+<img width="816" alt="스크린샷 2022-11-14 오전 11 05 24" src="https://user-images.githubusercontent.com/117635203/201564912-4365edd0-bb08-41c7-a708-044b2abd95a1.png">
 
 - 기존 출석체크앱의 업데이트 버전이다.
 - 초기 사용시 학생이 학생증을 등록해야한다.
@@ -30,7 +31,6 @@ NFC(Near Field Communication) 근거리 무선 통신으로 비접촉 통신기�
 2. 적용?<br>
 핸드폰 NFC와 선택한 좌석의 NFC tag 스티커가 맞닿으면 학교시스템에 정보(기기 이름, 선택한 좌석인지?, 수업 맞는지..?)가 넘어가서  출석인증이 되게한다.
 <br>
-
 3. 오프소스 링크 및 코드<br>
 참고할거-안드로이드 출입인증 NFC
 [ex1](http://isweb.joongbu.ac.kr/~jbuis/2014/report-2014-3.pdf
