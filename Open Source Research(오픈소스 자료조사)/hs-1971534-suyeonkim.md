@@ -37,7 +37,8 @@ NFC(Near Field Communication) 근거리 무선 통신으로 비접촉 통신기�
 )
 참조할거-NFC Tag를 이용한 출입통제 시스템
 [ex2](https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=CFKO201435553769306&oCn=NPAP12684394&dbt=CFKO&journal=NPRO00377534)
-```
+
+<pre>
 >>NFC Tagging<<
 int msgSize = nfc.read(ndefBuf, sizeof(ndefBuf));
 if (msgSize > 0) {
@@ -52,5 +53,5 @@ record.getPayload(payload);
 String payloadAsString = "";
 }
 }
-```
+</pre>
 
